@@ -1,0 +1,1 @@
+Aplikacja kontroli budżetu domowego
